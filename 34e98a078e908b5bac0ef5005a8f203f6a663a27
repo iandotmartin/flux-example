@@ -1,0 +1,1 @@
+{"jobID":"ecebb47e-5b85-e425-9ac0-db5702c686a8","spec":{"type":"policy","cause":{"Message":"","User":"iandotmartin \u003ciandotmartin@gmail.com\u003e"},"spec":{"default:deployment/helloworld":{"add":{"automated":"true"},"remove":{}}}},"result":null}
